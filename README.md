@@ -1,2 +1,2 @@
-# CSC4111-GitAssignment
+# GitHub and git
 Matthew Kraydich, matthew.kraydich@wayne,edu
