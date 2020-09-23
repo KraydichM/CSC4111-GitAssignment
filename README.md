@@ -1,2 +1,2 @@
-# CSC4111-GitAssignment
+# Github and git conflict
 Matthew Kraydich, matthew.kraydich@wayne,edu
